@@ -1,1 +1,1 @@
-Pash that print word which are refering to same thing
+script that changes the group owner to school f
