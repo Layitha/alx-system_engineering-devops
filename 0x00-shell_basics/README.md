@@ -1,1 +1,1 @@
-Delete the file betty.
+copy the html file
