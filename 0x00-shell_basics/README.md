@@ -1,1 +1,1 @@
-with user and group IDs displayed numerically
+Delete the file betty.
